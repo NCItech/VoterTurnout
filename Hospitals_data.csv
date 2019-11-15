@@ -1,0 +1,13 @@
+the_geom,OBJECTID,Name of Facility,Subtype Field,Feature Code,Full Address,Type
+POINT (-90.127867508319 29.917254383891),4705,Children's Hospital,800,Health or Medical Facility,200 HENRY CLAY AVE,Hospital
+POINT (-90.09228805364 29.925652636913),4700,Touro Infirmary,800,Health or Medical Facility,1401 FOUCHER ST,Hospital
+POINT (-90.076022648498 29.955466370981),4702,Tulane Medical Center,800,Health or Medical Facility,1415 TULANE AVE,Hospital
+POINT (-90.093213108323 29.924830310053),4706,Kindred Hospital of New Orleans,800,Health or Medical Facility,3601 COLISEUM ST,Hospital
+POINT (-90.095967366515 29.926056673647),4701,Community Care Hospital,800,Health or Medical Facility,1421 GENERAL TAYLOR,Hospital
+POINT (-89.974198864659 30.030605601847),4716,New Orleans East Hospital,800,Health or Medical Facility,5620 READ BLVD,Hospital
+POINT (-89.993587620594 29.910097765517),4699,Seaside Behavioral Hospital,800,Health or Medical Facility,4201 WOODLAND DR,Hospital
+POINT (-90.082132808852 29.959737743671),4755,University Medical Center,800,Health or Medical Facility,2000 CANAL ST,Hospital
+POINT (-89.948598330029 30.071417427104),4704,Beacon Behavioral Hospital,800,Health or Medical Facility,14500 HAYNE BLVD,Hospital
+POINT (-90.077095591693 29.937298577608),4707,St. Charles Surgical Hospital,800,Health or Medical Facility,1717 ST CHARLES AVE,Hospital
+POINT (-89.948598330029 30.071417427104),4703,St. Catherine Memorial Hospital,800,Health or Medical Facility,14500 HAYNE BLVD,Hospital
+POINT (-90.103573980413 29.937637407332),4708,Ochsner Baptist Medical Center,800,Health or Medical Facility,2700 NAPOLEON AVE,Hospital
