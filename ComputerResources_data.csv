@@ -1,0 +1,52 @@
+the_geom,ObjectID,Location,Address,Zip Code,Phone,Hours,Sunday Hours,Computers,Kids PC Area,Teen PC Area,Internet,WiFi,Printing,Support Available,Support Type,Restrictions,Device Rental Program,Device Rental Type,Device Rental Requirements,Device Rental Restrictions,Classes Available
+POINT (-90.101872057386 29.97491327785),7,Mid-City Branch,4140 Canal Street,70119,(504) 596-2654,"10 a.m. - 8 p.m., Mon.- Thurs.
+10 a.m. - 5 p.m. Fri. -Sat",No,12,No,No,Yes,Yes,Yes,Yes,Limited,,Yes,iPad,18+,In-House Only,None
+POINT (-90.013800108486 29.966383690636),6,Martin Luther King Branch,1611 Caffin Avenue,70117,(504) 596-2695,"10 a.m. - 8 p.m., Mon. - Thurs.
+10 a.m. - 5 p.m. Fri. - Sat",No,12,No,No,Yes,Yes,Yes,Yes,Partial,,Yes,iPad,18+,In-House Only,Basic Computing
+POINT (-90.013637780585 29.922729858452),9,Algiers Regional Branch,3014 Holiday Drive,70131,(504) 596-2641,"10 a.m. - 8 p.m., Mon.- Thurs.
+10 a.m. - 5 p.m. Fri. -Sat. 
+1 p.m. - 5 p.m. Sun.",Yes,46,Yes,No,Yes,Yes,Yes,Yes,Full-Time,,Yes,iPad,18+,In-House Only,None
+POINT (-90.101057739914 29.921354322638),2,Children's Resource Center,913 Napoleon Avenue,70115,(504) 596-2628,"10 a.m. – 8 p.m., Mon. - Thu.
+10 a.m. - 5 p.m.  Fri. -Sat.",No,5,No,No,Yes,Yes,Yes,Yes,As Needed,,Yes,iPad,18+,In-House Only,None
+POINT (-90.107558120658 30.004961193384),14,Robert E. Smith Branch,6301 Canal Blvd,70124,(504) 596-2638,"10 a.m. - 8 p.m Mon-Thurs. 
+10 a.m. - 5 p.m Fri.-Sat. 
+1 p.m. - 5 p.m. Sun.",Yes,21,Yes,No,Yes,Yes,Yes,Yes,Full-Time,,Yes,iPad,18+,In-House Only,None
+POINT (-90.036747168024 29.963914263523),3,Alvar Branch,913 Alvar Street,70117,(504) 596-2667,"10 a.m. - 8 p.m., Mon. - Thurs.
+10 a.m. - 5 p.m. Fri. - Sat",No,14,Yes,No,Yes,Yes,Yes,Yes,As Needed,,Yes,iPad,18+,In-House Only,None
+POINT (-89.972060187576 30.032258802137),10,New Orleans East Regional Branch,5641 Read Blvd.,70127,(504) 596-0200,"10 a.m. - 8 p.m., Mon. - Thurs.
+10 a.m. - 5 p.m., Fri. -Sat.
+1 p.m. -5 p.m., Sun",Yes,45,Yes,No,Yes,Yes,Yes,Yes,Full-Time,,Yes,iPad,18+,In-House Only,Basic Computing
+POINT (-90.127869185693 29.948652362038),8,Nix Branch,1401 S. Carrollton Avenue,70118,(504) 596-2630,"10 a.m - 8 p.m., Mon. - Thurs.
+10 a.m. - 5 p.m., Fri. - Sat",No,6,No,No,Yes,Yes,Yes,Yes,Limited,,Yes,iPad,18+,In-House Only,None
+POINT (-90.110248239452 29.926647086628),5,Milton H. Memorial Latter Branch,5120 St. Charles Avenue,70115,(504) 596-2625,"10a.m. - 8 p.m., Mon. - Thurs.
+10 a.m. - 5 p.m., Fri. - Sat.
+1 p.m. - 5 p.m., Sun.",Yes,6,No,No,Yes,Yes,Yes,Yes,Full-Time,Closed Due to Renovations,Yes,iPad,18+,In-House Only,None
+POINT (-90.079215131633 29.96620226909),16,Sojourner Truth,2200 Lafitte St,70119,(504) 827-9963,"8 am to 7 pm Mon -Fri. 
+9 am to 1 pm Saturdays",No,20,No,No,Yes,Yes,Must bring flash drive (not self-service),Yes,As Needed,Unattended teens must be 12+,No,No,No,No,Basic Computing and Resume Building
+POINT (-90.014738559087 29.966614522694),15,Sanchez Center,1616 Caffin Ave,70117,(504) 658-3059,"8 a.m. - 9 p.m. Mon-Fri  
+9 a.m. - 2 p.m. Sat ",No,,,,,,,,,,,,,,
+POINT (-90.061484355852 29.997528980088),12,Norman Mayer Gentilly Branch,3001 Gentilly Blvd.,70122,(504) 596-3100,"10 a.m. - 8 p.m. Mon. - Thurs.
+10 a.m. - 5 p.m. Fri. -Sat.
+1 p.m. - 5 p.m., Sun.",Yes,29,Yes,No,Yes,Yes,Yes,Yes,Full-Time,,Yes,iPad,18+,In-House Only,Basic Computing
+POINT (-90.103597683593 29.948815396931),13,Rosa Keller Branch,4300 S Broad St,70125,(504) 596-2660,"10 a.m. - 8 p.m., Mon. - Thurs.
+10 a.m. - 5 p.m., Fri. - Sat",No,18,Yes,No,Yes,Yes,Yes,Yes,As Needed,,Yes,iPad,18+,In-House Only,Open Tutoring
+POINT (-89.970753564801 30.031888407733),21,Joe W. Brown Rec Center,5601 Read Blvd,70127,(504) 658-3000,"10 a.m. - 9 p.m. Mon-Fri
+9 a.m. - 2 p.m. Sat",No,6,,,Yes,Yes,,,,,,,,,
+POINT (-90.087156492589 29.918743618441),19,Lyons Center,624 Louisiana Ave,70112,(504) 658-3004,"10 a.m. - 9 p.m. Mon-Friday
+9 a.m. - 2 p.m. Sat",No,11,,,Yes,Planned,,,,,,,,,
+POINT (-90.103930639465 29.984864945605),18,Delgado: City Park,615 City Park Ave,70119,(504) 671-5434,"4 p.m. - 5:30 p.m. Mon/Wed
+11:30 p.m. - 1:00 p.m. Tues/Thurs",No,,No,No,,,,,,"Adult education: 
+Jan - March",,,,,Basic Computing
+POINT (-90.127091034077 29.956972449693),20,Community Committment Education Center,8540 Spruce Street,70118,(504) 638-0044,"9 a.m. - 6 p.m. Mon-Friday
+9 a.m. - 2 p.m. Sat",No,,,,,,,,,,,,,,Basic Computing
+POINT (-90.08607196687 29.942696731199),4,Central City Branch,2405 Jackson Ave. Building C Room 235,70113,(504) 596-3110,"10 a.m. -7 p.m., Mon.- Thurs.
+11 a.m. - 4 p.m. Fri.",No,6,No,No,Yes,Yes,Yes,Yes,Limited,,Yes,iPad,18+,In-House Only,Basic Computing
+POINT (-89.918993615335 30.040574371485),17,Mary Queen of Vietnam,14001 Dwyer Blvd,70129,(504) 254-3583,,,,,,,,,,,,,,,,
+POINT (-90.048205066212 29.953111499),11,Cita Dennis Hubbel Branch,725 Pelican Avenue,70114,(504) 596-3113,"10 a.m. - 8 p.m. Mon. - Thurs.
+10 a.m. - 5:00 p.m. Fri- Sat.",No,8,Yes,No,Yes,Yes,Yes,Yes,As Needed,,Yes,iPad,18+,In-House Only,MS Office
+POINT (-89.98262692975 29.923490683572),23,Cut Off Rec Center,6600 Belgrade St,70131,(504) 658-3058,"10 a.m. - 9 p.m. Mon-Fri
+9 a.m. - 2 p.m. Sat",No,2,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned
+POINT (-90.07539264034 29.954512226718),1,Main Library,219 Loyola Ave,70112,(504) 596-2560,"10 a.m. - 8 p.m., Mon.-Thurs.
+ 10 a.m. - 5 p.m. Fri. & Sat.
+1 p.m. - 5 p.m. Sun.",Yes,52,Yes,Yes,Yes,Yes,Yes,Yes,As Needed,,Yes,iPad,18+,In-House Only,Basic Computing
+POINT (-90.075017445725 29.992639837475),22,St. Bernard Rec Center,1500 Lafreniere St,70112,(504) 658-,,,2,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned,Planned
