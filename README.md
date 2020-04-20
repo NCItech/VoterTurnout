@@ -3,10 +3,10 @@
 
 ## THE DATA
 #### This database houses data focused on local services in the general New Orleans area. The databases collected here contain a range of information on services such as Bike Lanes, Hospitals, Public Gardens, and other local government services. The data housed on this GitHub has been collected from a variety of websites that host open data. For the most part, the data was originally collected by Louisiana Government Departments. The websites that the data was pulled from include:
-##### https://datadriven.nola.gov
-##### https://www.511la.org/
-##### http://www.city-data.com
-##### The majority of files are stored as CSVs (Comma-separated values) that can be opened in an accessible way in a spreadsheet software (Excel, Numbers,Google Sheets, etc). The titles of the columns are found at the top of the sheet, and descriptions of each data set can be found in the census document. This census document also includes the original link to the data and other information on its quality and can be found in the main directory of this repository, or at this Box link [here](https://app.box.com/file/529825835606).
+* https://datadriven.nola.gov
+* https://www.511la.org/
+* http://www.city-data.com
+#### The majority of files are stored as CSVs (Comma-separated values) that can be opened in an accessible way in a spreadsheet software (Excel, Numbers,Google Sheets, etc). The titles of the columns are found at the top of the sheet, and descriptions of each data set can be found in the census document. This census document also includes the original link to the data and other information on its quality and can be found in the main directory of this repository, or at this Box link [here](https://app.box.com/file/529825835606).
 
 ## WHAT IS GITHUB AND HOW TO ACCESS IT
 #### GitHub is a code hosting platform for version control and collaboration, allowing multiple people to access data and code from anywhere. The Voter Turnout data is kept in a repository. A repository is used to organize a project on GitHub and can contain folders and files, videos, spreadsheets, and data sets. 
