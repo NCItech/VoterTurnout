@@ -1,8 +1,6 @@
 # Voter Turnout GitHub Primer
 ### Prepared by the Newcomb Institute Digital Research Interns
 
-### The following link is the online excel file of the Census. This document holds information about the data in this repository. 
-### https://tulane.box.com/s/cfie3bkscfdq7kkejp6ofbqze3yq031x
 ## THE DATA
 #### This database houses data focused on local services in the general New Orleans area. The databases collected here contain a range of information on services such as Bike Lanes, Hospitals, Public Gardens, and other local government services. The data housed on this GitHub has been collected from a variety of websites that host open data. For the most part, the data was originally collected by Louisiana Government Departments. The websites that the data was pulled from include:
 ##### https://datadriven.nola.gov
